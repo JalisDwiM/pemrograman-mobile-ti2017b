@@ -1,3 +1,2 @@
 Object yang digunakan :
-Button
-SetText
+Button & SetText
