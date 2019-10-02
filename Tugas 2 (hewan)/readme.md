@@ -1,4 +1,3 @@
 Object yang digunakan :
 
-set text
-button
+set text & button
